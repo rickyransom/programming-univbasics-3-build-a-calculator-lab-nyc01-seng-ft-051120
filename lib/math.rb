@@ -1,5 +1,5 @@
-num1 = 5
-num2 = 4
+num1 == 5
+num2 == 4
 def addition(num1, num2)
   puts (num1.to_i + num2.to_i)
 end
