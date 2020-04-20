@@ -3,9 +3,9 @@ def addition(num1, num2)
   addition(5,4)
 end
 
+subtraction(10,5)
 def subtraction(num1, num2)
 puts (num1.to_i - num2.to_i)
-subtraction(10,5)
 end
 
 def division(num1, num2)
